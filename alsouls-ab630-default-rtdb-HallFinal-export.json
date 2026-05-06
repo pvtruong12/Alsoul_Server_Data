@@ -1,0 +1,32 @@
+{
+  "arrNpcInMaps": {
+    "StatUpgradeNPC": {
+      "npcName": "StatUpgradeNPC",
+      "npcPosition": [
+        -6,
+        0,
+        2
+      ],
+      "npcRotate": [
+        0,
+        0,
+        0
+      ]
+    },
+    "Npc1": {
+      "npcName": "BuffUpgradeNPC",
+      "npcPosition": [
+        -42.5,
+        1,
+        2.5
+      ],
+      "npcRotate": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "mapLevel": 0,
+  "mapName": "HallFinal"
+}
